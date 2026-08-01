@@ -1,0 +1,6 @@
+{
+  "buildCommand": "npm run build:demo",
+  "outputDirectory": "site",
+  "installCommand": "npm install",
+  "framework": null
+}
